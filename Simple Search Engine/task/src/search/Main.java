@@ -3,46 +3,48 @@ package search;
 import java.util.Scanner;
 
 public class Main {
+
+    final static Scanner scanner = new Scanner(System.in);
+
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the number of people:");
-        int numberOfPeople = scanner.nextInt();
-        scanner.nextLine();
-        String[] database = new String[numberOfPeople];
-        System.out.println("Enter all people:");
-        for (int i = 0; i < numberOfPeople; i++) {
-            database[i] = scanner.nextLine();
-        }
+        String[] database = new String[Integer.parseInt(scanner.nextLine())];
+        getPeople(database);
+
         boolean loop = false;
-        do {
-            System.out.println("\n=== Menu ===");
-            System.out.println("1. Find a person");
-            System.out.println("2. Print all people");
-            System.out.println("0. Exit");
-            int decision = scanner.nextInt();
-            switch (decision) {
-                case 1: {
+        while (!loop) {
+            printMenu();
+            switch (scanner.nextLine()) {
+                case "1": {
                     System.out.println("Enter a name or email to search all suitable people.");
                     String toSearch = scanner.next().toLowerCase();
                     find(database, toSearch);
                     System.out.println();
                     break;
                 }
-                case 2: {
-                    System.out.println("=== List of people ===");
-                    for (int i = 0; i < numberOfPeople; i++) {
-                        System.out.println(database[i]);
-                    }
+                case "2": {
+                    printAllPeople(database);
                     break;
                 }
-                case 0:
+                case "0":
                     loop = true;
                     System.out.println("\nBye!");
                     break;
                 default:
                     System.out.println("Incorrect option! Try again.");
             }
-        } while (!loop);
+        }
+    }
+
+    public static void getPeople(String[] db) {
+        System.out.println("Enter all people:");
+        for (int i = 0; i < db.length; i++) {
+            db[i] = scanner.nextLine();
+        }
+    }
+
+    private static void printMenu() {
+        System.out.print("\n=== Menu ===\n1. Find a person\n2. Print all people\n0. Exit\n");
     }
 
     static void find(String[] strings, String toSearch) {
@@ -55,6 +57,13 @@ public class Main {
         }
         if (!check)
             System.out.println("No matching people found.");
+    }
+
+    private static void printAllPeople(String[] inputs) {
+        System.out.println("\n=== List of people ===");
+        for (String input : inputs) {
+            System.out.println(input);
+        }
     }
 }
 

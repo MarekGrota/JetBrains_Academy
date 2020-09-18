@@ -11,14 +11,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Check the value (1)" />
             <option value="$PROJECT_DIR$/Problems/Count elements of an array in another one" />
             <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Does the array contain the element" />
+            <option value="$PROJECT_DIR$/Problems/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
             <option value="$PROJECT_DIR$/Problems/Is between" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
+            <option value="$PROJECT_DIR$/Problems/Print  Hello, Java!" />
+            <option value="$PROJECT_DIR$/Problems/Print  We are robots!" />
             <option value="$PROJECT_DIR$/Problems/Queens" />
             <option value="$PROJECT_DIR$/Problems/Search indexes of values in another array" />
             <option value="$PROJECT_DIR$/Problems/Shape" />
