@@ -5,14 +5,18 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems (1)/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Problems (2)/String to double conversion" />
+            <option value="$PROJECT_DIR$/Problems (3)/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems (4)/Converting and multiplying" />
             <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Avoid division by zero" />
             <option value="$PROJECT_DIR$/Problems/Binary search" />
             <option value="$PROJECT_DIR$/Problems/Book" />
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbce3c4d-6ae2-4ee9-a702-6d846c792c9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Avoid division by zero.Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Avoid division by zero.Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Problems (1).Avoid division by zero.Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Problems (1).Avoid division by zero.Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (1)/Avoid division by zero/Simple_Search_Engine.Problems__1_-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/String to double conversion/Simple_Search_Engine.Problems__2_-String_to_double_conversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/String to double conversion/Simple_Search_Engine.Problems__2_-String_to_double_conversion.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (2)/String to double conversion/Simple_Search_Engine.Problems__2_-String_to_double_conversion.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Catching some exceptions/Simple_Search_Engine.Problems__3_-Catching_some_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Catching some exceptions/Simple_Search_Engine.Problems__3_-Catching_some_exceptions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (3)/Catching some exceptions/Simple_Search_Engine.Problems__3_-Catching_some_exceptions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Converting and multiplying/Simple_Search_Engine.Problems__4_-Converting_and_multiplying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Converting and multiplying/Simple_Search_Engine.Problems__4_-Converting_and_multiplying.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems (4)/Converting and multiplying/Simple_Search_Engine.Problems__4_-Converting_and_multiplying.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/A simple calculator.Simple_Search_Engine.Problems-A_simple_calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/A simple calculator.Simple_Search_Engine.Problems-A_simple_calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems.A simple calculator.Simple_Search_Engine.Problems-A_simple_calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Problems.A simple calculator.Simple_Search_Engine.Problems-A_simple_calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Account.Simple_Search_Engine.Problems-Account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Account.Simple_Search_Engine.Problems-Account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Problems.Account.Simple_Search_Engine.Problems-Account.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Problems.Account.Simple_Search_Engine.Problems-Account.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Avoid division by zero.Simple_Search_Engine.Problems-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Avoid division by zero.Simple_Search_Engine.Problems-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Simple_Search_Engine.Problems-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Simple_Search_Engine.Problems-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Avoid division by zero/Simple_Search_Engine.Problems-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Binary search.Simple_Search_Engine.Problems-Binary_search.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Binary search.Simple_Search_Engine.Problems-Binary_search.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Problems.Binary search.Simple_Search_Engine.Problems-Binary_search.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Problems.Binary search.Simple_Search_Engine.Problems-Binary_search.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Book.Simple_Search_Engine.Problems-Book.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Book.Simple_Search_Engine.Problems-Book.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Problems.Book.Simple_Search_Engine.Problems-Book.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Problems.Book.Simple_Search_Engine.Problems-Book.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Check a number is positive.Simple_Search_Engine.Problems-Check_a_number_is_positive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Check a number is positive.Simple_Search_Engine.Problems-Check_a_number_is_positive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Problems.Check a number is positive.Simple_Search_Engine.Problems-Check_a_number_is_positive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Problems.Check a number is positive.Simple_Search_Engine.Problems-Check_a_number_is_positive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Check the value (1).Simple_Search_Engine.Problems-Check_the_value__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Check the value (1).Simple_Search_Engine.Problems-Check_the_value__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Problems.Check the value (1).Simple_Search_Engine.Problems-Check_the_value__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Problems.Check the value (1).Simple_Search_Engine.Problems-Check_the_value__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Check the value.Simple_Search_Engine.Problems-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Check the value.Simple_Search_Engine.Problems-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Problems.Check the value.Simple_Search_Engine.Problems-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Problems.Check the value.Simple_Search_Engine.Problems-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Complex numbers.Simple_Search_Engine.Problems-Complex_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Complex numbers.Simple_Search_Engine.Problems-Complex_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Problems.Complex numbers.Simple_Search_Engine.Problems-Complex_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Problems.Complex numbers.Simple_Search_Engine.Problems-Complex_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Count elements of an array in another one.Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Count elements of an array in another one.Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Problems.Count elements of an array in another one.Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Problems.Count elements of an array in another one.Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Creating instances.Simple_Search_Engine.Problems-Creating_instances.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Creating instances.Simple_Search_Engine.Problems-Creating_instances.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Problems.Creating instances.Simple_Search_Engine.Problems-Creating_instances.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Problems.Creating instances.Simple_Search_Engine.Problems-Creating_instances.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Direction.Simple_Search_Engine.Problems-Direction.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Direction.Simple_Search_Engine.Problems-Direction.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems.Direction.Simple_Search_Engine.Problems-Direction.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Problems.Direction.Simple_Search_Engine.Problems-Direction.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Does the array contain the element.Simple_Search_Engine.Problems-Does_the_array_contain_the_element.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Does the array contain the element.Simple_Search_Engine.Problems-Does_the_array_contain_the_element.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Problems.Does the array contain the element.Simple_Search_Engine.Problems-Does_the_array_contain_the_element.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Problems.Does the array contain the element.Simple_Search_Engine.Problems-Does_the_array_contain_the_element.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Fix compile-time errors.Simple_Search_Engine.Problems-Fix_compile-time_errors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Fix compile-time errors.Simple_Search_Engine.Problems-Fix_compile-time_errors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems.Fix compile-time errors.Simple_Search_Engine.Problems-Fix_compile-time_errors.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems.Fix compile-time errors.Simple_Search_Engine.Problems-Fix_compile-time_errors.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Fixing the main method.Simple_Search_Engine.Problems-Fixing_the_main_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Fixing the main method.Simple_Search_Engine.Problems-Fixing_the_main_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems.Fixing the main method.Simple_Search_Engine.Problems-Fixing_the_main_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Problems.Fixing the main method.Simple_Search_Engine.Problems-Fixing_the_main_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Getting the fullname.Simple_Search_Engine.Problems-Getting_the_fullname.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Getting the fullname.Simple_Search_Engine.Problems-Getting_the_fullname.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems.Getting the fullname.Simple_Search_Engine.Problems-Getting_the_fullname.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Problems.Getting the fullname.Simple_Search_Engine.Problems-Getting_the_fullname.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/In a box.Simple_Search_Engine.Problems-In_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/In a box.Simple_Search_Engine.Problems-In_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems.In a box.Simple_Search_Engine.Problems-In_a_box.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Problems.In a box.Simple_Search_Engine.Problems-In_a_box.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Inner boxes.Simple_Search_Engine.Problems-Inner_boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Inner boxes.Simple_Search_Engine.Problems-Inner_boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Problems.Inner boxes.Simple_Search_Engine.Problems-Inner_boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Problems.Inner boxes.Simple_Search_Engine.Problems-Inner_boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Is between.Simple_Search_Engine.Problems-Is_between.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Is between.Simple_Search_Engine.Problems-Is_between.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Problems.Is between.Simple_Search_Engine.Problems-Is_between.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Problems.Is between.Simple_Search_Engine.Problems-Is_between.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Leap year.Simple_Search_Engine.Problems-Leap_year.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Leap year.Simple_Search_Engine.Problems-Leap_year.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Problems.Leap year.Simple_Search_Engine.Problems-Leap_year.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Problems.Leap year.Simple_Search_Engine.Problems-Leap_year.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Print  Hello, Java!.Simple_Search_Engine.Problems-Print__Hello,_Java!.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Print  Hello, Java!.Simple_Search_Engine.Problems-Print__Hello,_Java!.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems.Print  Hello, Java!.Simple_Search_Engine.Problems-Print__Hello,_Java!.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Problems.Print  Hello, Java!.Simple_Search_Engine.Problems-Print__Hello,_Java!.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Print  We are robots!.Simple_Search_Engine.Problems-Print__We_are_robots!.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Print  We are robots!.Simple_Search_Engine.Problems-Print__We_are_robots!.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems.Print  We are robots!.Simple_Search_Engine.Problems-Print__We_are_robots!.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Problems.Print  We are robots!.Simple_Search_Engine.Problems-Print__We_are_robots!.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems.Queens.Simple_Search_Engine.Problems-Queens.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Problems.Queens.Simple_Search_Engine.Problems-Queens.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Queens.Simple_Search_Engine.Problems-Queens.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Queens.Simple_Search_Engine.Problems-Queens.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Problems.Search indexes of values in another array.Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Problems.Search indexes of values in another array.Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Search indexes of values in another array.Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Search indexes of values in another array.Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems.Shape.Simple_Search_Engine.Problems-Shape.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Problems.Shape.Simple_Search_Engine.Problems-Shape.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Shape.Simple_Search_Engine.Problems-Shape.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Shape.Simple_Search_Engine.Problems-Shape.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Problems.Sorting arrays.Simple_Search_Engine.Problems-Sorting_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Problems.Sorting arrays.Simple_Search_Engine.Problems-Sorting_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Sorting arrays.Simple_Search_Engine.Problems-Sorting_arrays.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Sorting arrays.Simple_Search_Engine.Problems-Sorting_arrays.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems.Symmetrical number.Simple_Search_Engine.Problems-Symmetrical_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Problems.Symmetrical number.Simple_Search_Engine.Problems-Symmetrical_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Symmetrical number.Simple_Search_Engine.Problems-Symmetrical_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Symmetrical number.Simple_Search_Engine.Problems-Symmetrical_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple Search Engine.task.Simple_Search_Engine.Simple_Search_Engine-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple Search Engine.task.Simple_Search_Engine.Simple_Search_Engine-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/task.Simple_Search_Engine.Simple_Search_Engine-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/task.Simple_Search_Engine.Simple_Search_Engine-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Documents.Simple Search Engine.Simple_Search_Engine.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Documents.Simple Search Engine.Simple_Search_Engine.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Documents.Simple Search Engine.Simple_Search_Engine.util.main~1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Documents.Simple Search Engine.Simple_Search_Engine.util.test~1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple Search Engine.Simple_Search_Engine.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple Search Engine.Simple_Search_Engine.util.main~1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple Search Engine.Simple_Search_Engine.util.test~1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/Converting and multiplying/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/Converting and multiplying/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/Converting and multiplying/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/Converting and multiplying/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems (4)/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Simple_Search_Engine.Problems-A_simple_calculator.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Account/Simple_Search_Engine.Problems-Account.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Binary search/Simple_Search_Engine.Problems-Binary_search.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Book/Simple_Search_Engine.Problems-Book.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check a number is positive/Simple_Search_Engine.Problems-Check_a_number_is_positive.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value (1)/Simple_Search_Engine.Problems-Check_the_value__1_.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Check the value/Simple_Search_Engine.Problems-Check_the_value.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Complex numbers/Simple_Search_Engine.Problems-Complex_numbers.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Count elements of an array in another one/Simple_Search_Engine.Problems-Count_elements_of_an_array_in_another_one.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Creating instances/Simple_Search_Engine.Problems-Creating_instances.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Simple_Search_Engine.Problems-Direction.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Does the array contain the element/Simple_Search_Engine.Problems-Does_the_array_contain_the_element.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Simple_Search_Engine.Problems-Fix_compile-time_errors.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Fixing the main method/Simple_Search_Engine.Problems-Fixing_the_main_method.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Getting the fullname/Simple_Search_Engine.Problems-Getting_the_fullname.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/In a box/Simple_Search_Engine.Problems-In_a_box.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Inner boxes/Simple_Search_Engine.Problems-Inner_boxes.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Simple_Search_Engine.Problems-Is_between.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Leap year/Simple_Search_Engine.Problems-Leap_year.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  Hello, Java!/Simple_Search_Engine.Problems-Print__Hello,_Java!.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Print  We are robots!/Simple_Search_Engine.Problems-Print__We_are_robots!.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Queens/Simple_Search_Engine.Problems-Queens.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Search indexes of values in another array/Simple_Search_Engine.Problems-Search_indexes_of_values_in_another_array.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Shape/Simple_Search_Engine.Problems-Shape.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Sorting arrays/Simple_Search_Engine.Problems-Sorting_arrays.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Problems/Symmetrical number/Simple_Search_Engine.Problems-Symmetrical_number.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJx9i0T9vjwEWLJzwg99opjlWV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Search_Engine.Problems__4_-Converting_and_multiplying.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbce3c4d-6ae2-4ee9-a702-6d846c792c9f" name="Default Changelist" comment="" />
+      <created>1601639349384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601639349384</updated>
+      <workItem from="1601639365821" duration="119000" />
+      <workItem from="1601639618493" duration="396000" />
+      <workItem from="1601640032316" duration="124000" />
+      <workItem from="1601640182102" duration="201000" />
+      <workItem from="1601640588187" duration="6653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601639702454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601639702454" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601655261584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601655261584" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601655261583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601655261583" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601655261583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601655261583" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601655261583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601655261583" />
+  </component>
+</project>
